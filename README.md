@@ -9,3 +9,5 @@ Practica_3 - > HashMap (Encadenada Indirecta)
   -- Puede mejorarse implementándose sobre la Practica_2
 
 Practica_4 - > Grafo (no dirigido y [no]etiquetado con listas de adyacencia)
+
+Si consideras usar mi código porfavor deja una estrellita :>
