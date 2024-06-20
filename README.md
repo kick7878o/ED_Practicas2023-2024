@@ -14,4 +14,6 @@ Practica_4 - > Grafo (no dirigido y [no]etiquetado con listas de adyacencia)
 Practica_5 - > Implementación de un algoritmo de DETECCIÓN DE COMUNIDADES (Algoritmo de Louvain)
   -- Mejorar el cálculo del algoritmo
 
+Actividad_Adicional_AVL - > Implementación de un árbol AVL (SIN IMPLEMENTAR)
+
 Si consideras usar mi código porfavor deja una estrellita :>
