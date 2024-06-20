@@ -10,4 +10,6 @@ Practica_3 - > HashMap (Encadenada Indirecta)
 
 Practica_4 - > Grafo (no dirigido y [no]etiquetado con listas de adyacencia)
 
+Practica_5 - > Implementación de un algoritmo de DETECCIÓN DE COMUNIDADES (Algoritmo de Louvain)
+
 Si consideras usar mi código porfavor deja una estrellita :>
